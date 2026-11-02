@@ -1,0 +1,5 @@
+hyperliquid-python-sdk>=0.24.0
+lighter-sdk>=1.1.8
+websockets>=12
+aiohttp>=3.9
+truststore>=0.9

@@ -1,0 +1,8 @@
+.env
+config.local.json
+state.json
+logs/
+venv/
+__pycache__/
+STOP
+backtest/out/
